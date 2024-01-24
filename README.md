@@ -117,8 +117,3 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 <li><a href="https://www.wrappixel.com/affiliate-area/" rel="nofollow">Affiliate Program</a></li>
 </ul>
 
-<!-- Social Media of Wrappixel -->
-<h2>Social Media</h2>
-<p>Facebook: <a href="https://www.facebook.com/wrappixel">https://www.facebook.com/wrappixel</a></p>
-<p>Twitter: <a href="https://twitter.com/wrappixel">https://twitter.com/wrappixel</a></p>
-<p>Medium: <a href="https://medium.com/wrappixel">https://medium.com/wrappixel</a></p>

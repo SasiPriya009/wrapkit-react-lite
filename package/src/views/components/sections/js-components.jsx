@@ -88,7 +88,7 @@ const JsComponents = (props) => {
                     <Row className="justify-content-center">
                         <Col md="7" className="text-center">
                             <h1 className="title font-bold">Javascript Components</h1>
-                            <h6 className="subtitle">Here you can check Demos we created based on WrapKit. Its quite easy to Create your own dream website &amp; dashboard in No-time.</h6>
+                            <h6 className="subtitle">"Explore our demos built on WrapKit, showcasing a seamless integration of versatile JavaScript components. Effortlessly bring your dream website and dashboard to life in no time with these powerful and customizable elements."</h6>
                         </Col>
                     </Row>
                 </Container>
@@ -100,7 +100,7 @@ const JsComponents = (props) => {
                         <Modal size="lg" isOpen={modal} toggle={toggle.bind(null)} className={props.className}>
                             <ModalHeader toggle={toggle.bind(null)}>Modal title</ModalHeader>
                             <ModalBody>
-                                Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+                            Explore a myriad of dynamic and interactive Javascript components showcased in our demos crafted with WrapKit. Revolutionize your web development experience by effortlessly incorporating these powerful components into your projects, enabling you to create your dream website or dashboard with unparalleled ease and efficiency.
                             </ModalBody>
                             <ModalFooter>
                                 <Button color="primary" onClick={toggle.bind(null)}>Do Something</Button>{' '}
@@ -111,7 +111,7 @@ const JsComponents = (props) => {
                         <Modal size="md" isOpen={modal1} toggle={toggle1.bind(null)} className={props.className}>
                             <ModalHeader toggle={toggle1.bind(null)}>Modal title</ModalHeader>
                             <ModalBody>
-                                Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+                            Dive into the world of responsive and user-friendly Javascript components as demonstrated in our WrapKit demos. Crafting your dream website or dashboard is made simple with these versatile components, providing you with the tools you need to enhance user interaction and design.
                             </ModalBody>
                             <ModalFooter>
                                 <Button color="primary" onClick={toggle1.bind(null)}>Do Something</Button>{' '}
@@ -122,7 +122,7 @@ const JsComponents = (props) => {
                         <Modal size="sm" isOpen={modal2} toggle={toggle2.bind(null)} className={props.className}>
                             <ModalHeader toggle={toggle2.bind(null)}>Modal title</ModalHeader>
                             <ModalBody>
-                                Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+                            Discover the simplicity and effectiveness of Javascript components in our WrapKit demos. Easily integrate these user-friendly elements into your web projects, allowing you to swiftly build your dream website or dashboard without any hassle
                             </ModalBody>
                             <ModalFooter className="justify-content-center">
                                 <Button color="primary" onClick={toggle2.bind(null)}>Cancel</Button>

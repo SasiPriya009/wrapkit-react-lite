@@ -88,7 +88,7 @@ const TooltipPopover = () => {
                     <Row className="justify-content-center">
                         <Col md="7" className="text-center">
                             <h1 className="title font-bold">Tooltip & Popover</h1>
-                            <h6 className="subtitle">Here you can check Demos we created based on WrapKit. Its quite easy to Create your own dream website &amp; dashboard in No-time.</h6>
+                            <h6 className="subtitle">"Discover the interactive possibilities with our demos featuring WrapKit's Tooltip & Popover elements. Effortlessly enhance user experiences and design captivating interfaces for your dream website and dashboard in no time, utilizing these versatile and engaging components."</h6>
                         </Col>
                     </Row>
                 </Container>

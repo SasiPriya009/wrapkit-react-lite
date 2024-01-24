@@ -10,7 +10,7 @@ const Notification = () => {
                     <Row className="justify-content-center">
                         <Col md="7" className="text-center">
                             <h1 className="title font-bold">Notification</h1>
-                            <h6 className="subtitle">Here you can check Demos we created based on WrapKit. Its quite easy to Create your own dream website &amp; dashboard in No-time.</h6>
+                            <h6 className="subtitle">"Explore our demos crafted with WrapKit, showcasing a seamless integration of Notification elements. Effortlessly create and customize notifications for your dream website and dashboard, ensuring timely and engaging communication with users in no time."</h6>
                         </Col>
                     </Row>
                 </Container>

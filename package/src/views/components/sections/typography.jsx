@@ -9,7 +9,7 @@ const Typography = () => {
                     <Row className="justify-content-center">
                         <Col md="7" className="text-center">
                             <h1 className="title font-bold">Typography</h1>
-                            <h6 className="subtitle">Here you can check Demos we created based on WrapKit. Its quite easy to Create your own dream website &amp; dashboard in No-time.</h6>
+                            <h6 className="subtitle">"Dive into our WrapKit demos, highlighting the seamless fusion of elegant typography choices. Easily elevate the aesthetics of your dream website and dashboard, imbuing them with style and sophistication using our customizable and diverse typography elements."</h6>
                         </Col>
                     </Row>
                 </Container>

@@ -9,7 +9,7 @@ const Dropdowns = () => {
                     <Row className="justify-content-center">
                         <Col md="7" className="text-center">
                             <h1 className="title font-bold">Dropdowns</h1>
-                            <h6 className="subtitle">Here you can check Demos we created based on WrapKit. Its quite easy to Create your own dream website &amp; dashboard in No-time.</h6>
+                            <h6 className="subtitle">"Explore the demo collection showcasing DropdownKit, making it a breeze to integrate and customize dropdown menus for your website or dashboard, allowing you to design your ideal user experience in no time."</h6>
                         </Col>
                     </Row>
                 </Container>

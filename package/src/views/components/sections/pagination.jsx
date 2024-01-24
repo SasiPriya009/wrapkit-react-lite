@@ -11,7 +11,8 @@ const PagePagination = () => {
                     <Row className="justify-content-center">
                         <Col md="7" className="text-center">
                             <h1 className="title font-bold">Pagination</h1>
-                            <h6 className="subtitle">Here you can check Demos we created based on WrapKit. Its quite easy to Create your own dream website &amp; dashboard in No-time.</h6>
+                            <h6 className="subtitle">"Explore the pagination examples we've crafted based on PaginationKit. It's incredibly simple to integrate and customize pagination for your website or application in no time."
+</h6>
                         </Col>
                     </Row>
                 </Container>

@@ -9,7 +9,7 @@ const PageForm = () => {
                     <Row className="justify-content-center">
                         <Col md="7" className="text-center">
                             <h1 className="title font-bold">Form</h1>
-                            <h6 className="subtitle">Here you can check Demos we created based on WrapKit. Its quite easy to Create your own dream website &amp; dashboard in No-time.</h6>
+                            <h6 className="subtitle">"Discover the range of form options featured in our demos created with FormKit. Effortlessly design and integrate forms into your dream website or dashboard, streamlining the process of collecting and managing data in no time."</h6>
                         </Col>
                     </Row>
                 </Container>

@@ -31,44 +31,44 @@ const PageTable = () => {
                                 <tbody>
                                     <tr>
                                         <td>1</td>
-                                        <td>Deshmukh</td>
-                                        <td>Prohaska</td>
-                                        <td>@Genelia</td>
+                                        <td>Sasi Priya</td>
+                                        <td>Rajeev</td>
+                                        <td>Vamsi</td>
                                         <td><span className="label label-danger">admin</span> </td>
                                     </tr>
                                     <tr>
                                         <td>2</td>
-                                        <td>Deshmukh</td>
-                                        <td>Gaylord</td>
-                                        <td>@Ritesh</td>
+                                        <td>Srinivas</td>
+                                        <td>Priya</td>
+                                        <td>@Lohitha</td>
                                         <td><span className="label label-info">member</span> </td>
                                     </tr>
                                     <tr>
                                         <td>3</td>
-                                        <td>Sanghani</td>
-                                        <td>Gusikowski</td>
-                                        <td>@Govinda</td>
+                                        <td>Ram Gopal</td>
+                                        <td>Charan</td>
+                                        <td>@Ratna kumari</td>
                                         <td><span className="label label-warning">developer</span> </td>
                                     </tr>
                                     <tr>
                                         <td>4</td>
-                                        <td>Roshan</td>
-                                        <td>Rogahn</td>
-                                        <td>@Hritik</td>
+                                        <td>Padmaja</td>
+                                        <td>Nikitha</td>
+                                        <td>@Jawahar</td>
                                         <td><span className="label label-success">supporter</span> </td>
                                     </tr>
                                     <tr>
                                         <td>5</td>
-                                        <td>Joshi</td>
-                                        <td>Hickle</td>
-                                        <td>@Maruti</td>
+                                        <td>Tissy</td>
+                                        <td>Gracy</td>
+                                        <td>@Sahana</td>
                                         <td><span className="label label-info">member</span> </td>
                                     </tr>
                                     <tr>
                                         <td>6</td>
-                                        <td>Nigam</td>
-                                        <td>Eichmann</td>
-                                        <td>@Sonu</td>
+                                        <td>Tharun</td>
+                                        <td>Rakesh</td>
+                                        <td>@Sujji</td>
                                         <td><span className="label label-success">supporter</span> </td>
                                     </tr>
                                 </tbody>

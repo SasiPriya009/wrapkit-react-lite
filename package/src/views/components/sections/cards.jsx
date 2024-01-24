@@ -10,7 +10,8 @@ const Cards = () => {
                     <Row className="justify-content-center">
                         <Col md="7" className="text-center">
                             <h1 className="title font-bold">Cards</h1>
-                            <h6 className="subtitle">Here you can check Demos we created based on WrapKit. Its quite easy to Create your own dream website &amp; dashboard in No-time.</h6>
+                            <h6 className="subtitle">"Discover the variety of card designs showcased in our demos created with CardKit. Effortlessly craft your ideal website or dashboard by quickly integrating and customizing stylish cards to showcase your content."
+</h6>
                         </Col>
                     </Row>
                 </Container>
@@ -20,14 +21,14 @@ const Cards = () => {
                     <Col md="6">
                         <Card body className="card-shadow">
                             <CardTitle>Special Title Treatment</CardTitle>
-                            <CardText>With supporting text below as a natural lead-in to additional content.</CardText>
+                            <CardText>"Discover enhanced title presentations with supporting text on our demo cards, creating an engaging pathway to more content effortlessly."</CardText>
                             <Button>Go somewhere</Button>
                         </Card>
                     </Col>
                     <Col md="6">
                         <Card body className="card-shadow">
                             <CardTitle>Special Title Treatment</CardTitle>
-                            <CardText>With supporting text below as a natural lead-in to additional content.</CardText>
+                            <CardText>"Explore unique title treatments and concise supporting text on our Special Title Cards, guiding users seamlessly into additional content."</CardText>
                             <Button>Go somewhere</Button>
                         </Card>
                     </Col>

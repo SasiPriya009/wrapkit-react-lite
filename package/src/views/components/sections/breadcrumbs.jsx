@@ -10,7 +10,7 @@ const Breadcrumbs = () => {
                     <Row className="justify-content-center">
                         <Col md="12" className="text-center">
                             <h1 className="title font-bold">Breadcrumbs</h1>
-                            <h6 className="subtitle">Here you can check Demos we created based on WrapKit. Its quite easy to Create your own dream website &amp; dashboard in No-time.</h6>
+                            <h6 className="subtitle">"Explore the breadcrumb navigation examples we've created with BreadcrumbKit. Easily implement and customize breadcrumbs for your website or dashboard in no time, guiding users seamlessly through your content."</h6>
                         </Col>
                     </Row>
                 </Container>

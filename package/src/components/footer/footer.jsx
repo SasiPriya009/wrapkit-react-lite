@@ -9,15 +9,15 @@ const Footer = () => {
                 <Row>
                     <Col lg="3" md="6" className="m-b-30">
                         <h5 className="m-b-20">Address</h5>
-                        <p>71 Amsteroum Avenue Cronish Night, NY 35098</p>
+                        <p>Bhadrachalam ITC road Near Ramalayam</p>
                     </Col>
                     <Col lg="3" md="6" className="m-b-30">
                         <h5 className="m-b-20">Phone</h5>
-                        <p>Reception :  +205 123 4567 <br />Office :  +207 235 7890</p>
+                        <p>Reception :  +99129105300 <br />Office :  +99129105300</p>
                     </Col>
                     <Col lg="3" md="6" className="m-b-30">
                         <h5 className="m-b-20">Email</h5>
-                        <p>Office :  <a href="#" className="link">info@wrappixel.com</a> <br />Site :  <a href="#" className="link">wrapkit@wrappixel.com</a></p>
+                        <p>Office :  <a href="#" className="link">sasipriyawrapixel.com</a> <br />Site :  <a href="#" className="link">sasipriya@wrappixel.com</a></p>
                     </Col>
                     <Col lg="3" md="6">
                         <h5 className="m-b-20">Social</h5>
@@ -34,7 +34,7 @@ const Footer = () => {
                     <Row>
                         <Col md="12">
                             <div className="d-flex font-14 justify-content-between">
-                                <div className="m-t-10 m-b-10 copyright">All Rights Reserved by WrapPixel.</div>
+                                <div className="m-t-10 m-b-10 copyright">All Rights Reserved by <Sasipriya className="dev"></Sasipriya>.</div>
                                 <div className="links ms-auto m-t-10 m-b-10">
                                     <a href="#" className="p-10 p-l-0">Terms of Use</a>
                                     <a href="#" className="p-10">Legal Disclaimer</a>

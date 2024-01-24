@@ -9,7 +9,9 @@ const Buttons = () => {
                     <Row className="justify-content-center">
                         <Col md="7" className="text-center">
                             <h1 className="title font-bold">Buttons</h1>
-                            <h6 className="subtitle">Here you can check Demos we created based on WrapKit. Its quite easy to Create your own dream website &amp; dashboard in No-time.</h6>
+                            <h6 className="subtitle">"Explore the showcase of demos crafted using WrapKit, making it
+                              effortlessly simple to bring your vision to life and build your dream website
+                               or dashboard in record time."</h6>
                         </Col>
                     </Row>
                 </Container>
